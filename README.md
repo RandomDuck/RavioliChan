@@ -1,0 +1,1 @@
+This is a discod.js bot that i made for a friends server. This is my first discord bot. Say hi to Ravioli-Chan :)

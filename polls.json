@@ -1,0 +1,118 @@
+{
+    "Server287256573145907200": {
+        "lastid": 7,
+        "poll1": {
+            "pollstarter": "Storotso#3704  ",
+            "polledQuestion": " abolish the constitution",
+            "pollid": 1,
+            "votedfor": {
+                "length": 1,
+                "235375484358098944": "235375484358098944"
+            },
+            "votedagainst": {
+                "length": 1,
+                "197327976621277184": "197327976621277184"
+            }
+        },
+        "poll2": {
+            "pollstarter": "RandomDucks#1750  ",
+            "polledQuestion": " make minigames with raviolichan? (like multy question \"wich is not an anime title\" or https://www.youtube.com/watch?v=RkwI9veMqQk)",
+            "pollid": 2,
+            "votedfor": {
+                "length": 1,
+                "287255202673983502": "287255202673983502"
+            },
+            "votedagainst": {
+                "length": 0
+            }
+        },
+        "poll3": {
+            "pollstarter": "RandomDucks#1750  ",
+            "polledQuestion": " chill nibba!",
+            "pollid": 3,
+            "votedfor": {
+                "length": 1,
+                "197327976621277184": "197327976621277184"
+            },
+            "votedagainst": {
+                "length": 0
+            }
+        },
+        "poll4": {
+            "pollstarter": "RandomDucks#1750  ",
+            "polledQuestion": " start an autistic book club?",
+            "pollid": 4,
+            "votedfor": {
+                "length": 3,
+                "235375484358098944": "235375484358098944",
+                "197327976621277184": "197327976621277184",
+                "287255202673983502": "287255202673983502"
+            },
+            "votedagainst": {
+                "length": 0
+            }
+        },
+        "poll5": {
+            "pollstarter": "Storotso#3704 (\"Pusillin\")",
+            "polledQuestion": " restore our nicknames I'm tired of these ones",
+            "pollid": "5",
+            "votedfor": {
+                "length": 2,
+                "287255202673983502": "287255202673983502",
+                "197327976621277184": "197327976621277184"
+            },
+            "votedagainst": {
+                "length": 0
+            }
+        },
+        "poll6": {
+            "pollstarter": "RandomDucks#1750 (\"\"Captain\" Cookie\")",
+            "polledQuestion": " y",
+            "pollid": 6,
+            "votedfor": {
+                "length": 0
+            },
+            "votedagainst": {
+                "length": 0
+            }
+        },
+        "poll7": {
+            "pollstarter": "RandomDucks#1750  ",
+            "polledQuestion": " who wants to make this a raviolichan feature? \n```py\nShe takes any image link we send using \"!embed <link>\" and then\nputs them in this type of embed\n```",
+            "pollid": 7,
+            "votedfor": {
+                "length": 1,
+                "287255202673983502": "287255202673983502"
+            },
+            "votedagainst": {
+                "length": 0
+            }
+        }
+    },
+    "totalPolls": 8,
+    "Server415082562206302209": {
+        "lastid": 2,
+        "poll1": {
+            "pollstarter": "RandomDucks#1750  ",
+            "polledQuestion": " hello",
+            "pollid": 1,
+            "votedfor": {
+                "length": 0
+            },
+            "votedagainst": {
+                "length": 0
+            }
+        },
+        "poll2": {
+            "pollstarter": "RandomDucks#1750  ",
+            "polledQuestion": " test",
+            "pollid": 2,
+            "votedfor": {
+                "length": 0
+            },
+            "votedagainst": {
+                "length": 0
+            }
+        }
+    }
+}

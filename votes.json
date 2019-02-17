@@ -1,0 +1,66 @@
+{
+    "287256573145907200": {
+        "election": false,
+        "votes": {
+            "length": 0
+        },
+        "inLead": "default",
+        "inLeadVotes": 0,
+        "runnerUp": "default",
+        "runnerUpVotes": 0,
+        "usersInServer": 11
+    },
+    "421999927032545290": {
+        "election": true,
+        "votes": {
+            "length": 2,
+            "197327976621277184": {
+                "votedfor": "240505809765793794",
+                "voterid": "197327976621277184",
+                "name": "RandomDucks#1750",
+                "votedby": {},
+                "votesforuser": 0
+            },
+            "240505809765793794": {
+                "votedfor": "no one",
+                "voterid": "240505809765793794",
+                "name": "Mr. President#4960",
+                "votedby": {
+                    "197327976621277184": {
+                        "name": "RandomDucks#1750",
+                        "id": "197327976621277184"
+                    }
+                },
+                "votesforuser": 1
+            },
+            "400328210484559882": {
+                "votedfor": "400328210484559882",
+                "voterid": "400328210484559882",
+                "name": "Nemo#9176",
+                "votedby": {
+                    "400328210484559882": {
+                        "name": "Nemo#9176",
+                        "id": "400328210484559882"
+                    }
+                },
+                "votesforuser": 1
+            }
+        },
+        "inLead": "240505809765793794",
+        "inLeadVotes": 1,
+        "runnerUp": "400328210484559882",
+        "runnerUpVotes": 1,
+        "usersInServer": 12
+    },
+    "204738448320364544": {
+        "election": false,
+        "votes": {
+            "length": 0
+        },
+        "inLead": "default",
+        "inLeadVotes": 0,
+        "runnerUp": "default",
+        "runnerUpVotes": 0,
+        "usersInServer": 0
+    }
+}

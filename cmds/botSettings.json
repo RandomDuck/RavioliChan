@@ -1,0 +1,48 @@
+{
+    "botname": "Zamuel 2.0",
+    "message": "Thats not how it works.\n For help type",
+    "command": "help",
+    "errorMessage": "Error: ",
+    "prefix": "!",
+    "ID": "",
+    "OwnerID": "",
+    "OwnerUN": "RandomDucks",
+    "OwnerHash": "",
+    "token": "",
+    "lastlog": "Error:  TypeError: (intermediate value).setAuthor(...).color is not a function",
+    "logpath": "./logs",
+    "helpthumb": "http://img1.ak.crunchyroll.com/i/spire4/01282008/4/d/6/a/4d6ae68100aa90_full.jpg",
+    "responses": {
+        "errmsg": [
+            "You can't even type a command right? Why did it have to be you...",
+            "Incompetent as ever I see. I can't even make out what you're saying. Baaaka!"
+        ],
+        "ravmsg": [
+            "I cannot believe I'm doing this for you..."
+        ],
+        "deniedmsg": [
+            "Fufufu, did you really think you could do that? Well, too bad!",
+            "Stay away baka hentai! I hate you!",
+            "Gross, don't come near me!",
+            "I'm already Tracer!",
+            "Go away! I'm playing Fortnite!"
+        ],
+        "gratsmsg": [
+            "Congratulations. D-d-d-d-don't get the wrong idea! It doesn't mean anything that I praised you this one time!"
+        ],
+        "masteronlymsg": [
+            "I only do this for master!",
+            "Masters orders only!",
+            "I wont let you!",
+            "My creator is forcing me to call him master and it creeps me out. Send help."
+        ],
+        "helpmsg": [
+            "Ara ara, asking for my help are you? I guess I have no choice.",
+            "D-don't get the wrong idea. I'm only showing you my commands because of how pitiful you are."
+        ],
+        "avatarmsg": [
+            "I-I just happen to have this image, ok?",
+            "I just have this so I can burn it, d-don't flatter yourself!"
+        ]
+    }
+}
